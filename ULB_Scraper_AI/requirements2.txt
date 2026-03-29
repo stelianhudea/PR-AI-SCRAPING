@@ -1,0 +1,26 @@
+# Nucleul AI și Procesare Date
+pandas
+numpy
+tabulate
+
+# Crawler și Networking
+requests
+beautifulsoup4
+
+# Creierul AI (LangChain & Ollama)
+langchain
+langchain-community
+langchain-core
+langchain-experimental
+langchain-ollama
+langchain-chroma
+chromadb
+
+# Grafice și Vizualizare
+matplotlib
+seaborn
+
+# Extractoare de Text
+PyPDF2
+python-docx
+openpyxl
