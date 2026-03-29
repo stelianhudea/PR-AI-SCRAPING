@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pandas
+pymupdf
+python-docx
+pytesseract
+pillow
+langchain
+chromadb
+tqdm
